@@ -6,8 +6,6 @@
 
 
 /**
- *
- * @author bayujp
  */
 public class session {
      private static String user,id;
